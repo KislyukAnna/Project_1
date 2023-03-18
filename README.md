@@ -3,7 +3,8 @@
 ## Оглавление
 [1. Описание проекта](https://github.com/KislyukAnna/Project_1#%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0)
 [2. Какой кейс решаем?](https://github.com/KislyukAnna/Project_1#%D0%BA%D0%B0%D0%BA%D0%BE%D0%B9-%D0%BA%D0%B5%D0%B9%D1%81-%D1%80%D0%B5%D1%88%D0%B0%D0%B5%D0%BC)
-[3. Результат](https://github.com/KislyukAnna/Project_1/blob/master/README.md#%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D1%8B)
+[3. Информация о данных]()
+[4. Результат](https://github.com/KislyukAnna/Project_1/blob/master/README.md#%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D1%8B)
 
 
 ### Описание проекта
@@ -37,6 +38,10 @@
 
 **Что практикуем**
 Работа с данными и оформление отчетов с помощью средств Python
+
+### Информация о данных
+
+[Файл с исходными данными можно скачать здесь](https://drive.google.com/file/d/1Kb78mAWYKcYlellTGhIjPI-bCcKbGuTn/view?usp=share_link)
 
 ### Результаты:
 [ Ноутбук с выполненными заданиями](https://github.com/KislyukAnna/Project_1/blob/master/Project-1.ipynb)
